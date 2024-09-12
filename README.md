@@ -14,3 +14,17 @@
 **5.** Generated a repot of newproducts in the year to know what are the products that are launched in the year 2021 and the sale insights of that year_[Top 10 products] (https://github.com/KarthikDubbudu/Excel-Sales-Analytics/blob/main/new%20products%202021.pdf)
 
 **6.**Generated a report of _[Top5 products Bottom5 porducts] to know about the products which are the top and bottom 5 products inrespect to quantity(https://github.com/KarthikDubbudu/Excel-Sales-Analytics/blob/main/top5%20bottom5%20products.pdf)
+
+**Purpose of Sales Analytics**:
+Enable organizations to systematically monitor, assess, and optimize their sales operations and overall performance.
+
+**Significance of Sales Data Analysis**:
+Analyze sales trends, uncover insights, and measure critical Key Performance Indicators (KPIs) to drive strategic decision-making.
+
+**Function of Analytical Reports**:
+Provide actionable intelligence to Optimize customer discount strategies for maximum profitability.
+
+Enhance negotiations with clients by leveraging data-driven insights.
+
+Identify and assess new market expansion opportunities, particularly in high-growth regions.
+
